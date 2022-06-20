@@ -1,2 +1,2 @@
-Projetinho Leo e Mari
+# exemploBolasQuicando
 Exemplo de orientação a objeto no Javascript
